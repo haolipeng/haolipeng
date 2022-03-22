@@ -1,31 +1,39 @@
 # haolipeng's Profile 👋
 
-## 工作内容
+## Working On
 
 - ⚡ [Hades](https://github.com/chriskaliX/Hades): HIDS(cn_proc & ebpf based)
-- Elkied 抄写源代码并源码分析
-  - 单机部署文档需要完善
-  - agent设计原理
-  - server或center的设计原理
-
--  
+- ⚡ [ModSecuriy](https://github.com/SpiderLabs/ModSecurity):: cross platform web application firewall (WAF) engine for Apache, IIS and Nginx
 
 ## Project Todo
 
-- ⚡ Zues: WAF (lua based, and the server )
-- ⚡ Uranus: Java Code Auditd(soot | codeql 🌟)
+- ⚡ User-Level Network Stack
 - ⚡ Poseidon: RASP (really want to do !...)
 
-## Want to do
+## Want Todo
+
+### 1、golang Basic knowledge
+
+- [ ] (10%) start to work on golang basic knowledge
+  - [ ] go clean Architecture
+  - [ ] uber go guide  10%
+  - [ ] go use makefile
+  - [ ] go ci/cd build system
+
+
+### 2、Source code analysis
+
+- [ ] **(0%) go through source code of  Elkied**
+- [ ] (0%) go through source code of tracee
+- [ ] ( 5%) go through cni plugins such as flannel calico (nothing special, just to dig some thing for fun & learn)
 
 
 
-- [ ] (40%) start to work on golang basic, MIT classes
-  - [x] uber go guide, finished  
-- [ ] ( 5%) go through nginx source code(nothing special, just to dig some thing for fun & learn)
-- [ ] (0%) 走读datadog agent源代码 
-- [ ] (0%) 走读Elkied源代码 
-- [ ] (0%) 走读tracee源代码 
+## Coding Practice To Do
+
+### 1、Implement docker from scratch with Go
+
+
 
 ![](https://github-readme-stats.vercel.app/api?username=haolipeng&show_icons=true&hide_title=false&include_all_commits=true)
 
