@@ -15,10 +15,21 @@
 ### 1、golang Basic knowledge
 
 - [ ] (10%) start to work on golang basic knowledge
-  - [ ] go clean Architecture
-  - [ ] uber go guide  10%
+  - [ ] **go clean Architecture**
+  - [ ] **uber go guide  10%**
   - [ ] go use makefile
   - [ ] go ci/cd build system
+  - [ ] swagger api
+  - [ ] go sync.Pool
+  - [ ] go routine scheduler
+  - [ ] go design patterns
+  - [ ] [gobyexample](https://gobyexample-cn.github.io/)
+  - [ ] golang error design
+  - [ ] [golang 并发编程](https://github.com/smallnest/dive-to-gosync-workshop)
+  - [ ] https://dave.cheney.net/practical-go/presentations/qcon-china.html
+  - [ ] golang test
+  
+  
 
 
 ### 2、Source code analysis
@@ -32,6 +43,12 @@
 ## Coding Practice To Do
 
 ### 1、Implement docker from scratch with Go
+
+
+
+## Resource
+
+[Go学习资源](./Resource.md)
 
 
 
