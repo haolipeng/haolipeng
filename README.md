@@ -1,14 +1,27 @@
 # haolipeng's Profile 👋
 
-## Working On
+## 1、Working On
 
 - ⚡ [Hades](https://github.com/chriskaliX/Hades): HIDS(cn_proc & ebpf based)
-- ⚡ [ModSecuriy](https://github.com/SpiderLabs/ModSecurity):: cross platform web application firewall (WAF) engine for Apache, IIS and Nginx
+- ⚡ [dperf](https://github.com/baidu/dperf.git): dperf is a DPDK based 100Gbps network performance and load testing software.
 
-## Project Todo
 
-- ⚡ User-Level Network Stack
-- ⚡ Poseidon: RASP (really want to do !...)
+
+## 2、Project Todo
+
+- ⚡ User-Level Network Stack with C
+- ⚡ [seven-days-golang](https://gitee.com/codergeek/seven-days-golang) Implement a project from scratch with Go in 7 days
+
+
+
+## Source Code Reading
+
+- [ ] **(0%) go through source code of  Elkied (doing)**
+- [ ] **(10%)reading source code of lvs/dpvs (doing)**
+- [ ] (0%) go through source code of tracee
+- [ ] ( 5%) go through cni plugins such as flannel and calico
+
+
 
 ## Want Todo
 
@@ -30,13 +43,6 @@
   - [ ] golang test
   
   
-
-
-### 2、Source code analysis
-
-- [ ] **(0%) go through source code of  Elkied**
-- [ ] (0%) go through source code of tracee
-- [ ] ( 5%) go through cni plugins such as flannel calico (nothing special, just to dig some thing for fun & learn)
 
 
 
