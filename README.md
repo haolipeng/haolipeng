@@ -19,11 +19,10 @@
 - [ ] (10%) [tracee_code_reading](https://github.com/haolipeng/tracee_code_reading)
 - [ ] (5%) [bad-bpf-reading](https://github.com/haolipeng/bad-bpf-commented)
 
-## 3、Knowledge Base From Work
+## 4、Knowledge Base From Work
 [personal knowledge base](https://github.com/haolipeng/study_cloud_security_public)
 
-### 1、golang Basic knowledge
-
+## 5、golang Basic knowledge
 - [ ] (10%) start to work on golang basic knowledge
   - [ ] **go clean Architecture**
   - [ ] **uber go guide  10%**
@@ -35,13 +34,5 @@
   - [ ] [golang Concurrent programming](https://github.com/smallnest/dive-to-gosync-workshop)
   - [ ] https://dave.cheney.net/practical-go/presentations/qcon-china.html
   - [ ] golang test
-
-## Coding Practice To Do
-
-### 1、Implement docker from scratch with Go
-
-## Resource
-
-[Go learning resources](./Resource.md)
 
 ![](https://github-readme-stats.vercel.app/api?username=haolipeng&show_icons=true&hide_title=false&include_all_commits=true)
