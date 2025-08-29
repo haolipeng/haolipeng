@@ -1,8 +1,8 @@
 # Welcome to my programming world 👋👋👋
 
-## 1、Covert Channel Detection Project（Important）
+## 1、Company Project（Important）
 - ⚡⚡⚡ [ebpf-based-microsegment](https://github.com/haolipeng/convert_tunnel_detector): Covert tunnel detection engine implemented in golang，better than Rita framework
-- ⚡⚡⚡[encrypted_traffic_analysis](https://github.com/haolipeng/encrypted_traffic_analysis): Encrypted Traffic Probe Project
+- ⚡⚡⚡[encrypted_traffic_analysis](https://github.com/haolipeng/encrypted_traffic_analysis): Encrypted Traffic Analysis Project
 
 ## 2、Personal Practice Project
 - ⚡⚡ [dpdk-based-nids](https://github.com/haolipeng/dpdk-based-nids): Network intrusion and detection system based on dpdk
