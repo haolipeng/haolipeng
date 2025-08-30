@@ -5,7 +5,7 @@
 - ⚡⚡[convert_tunnel_detector](https://github.com/haolipeng/convert_tunnel_detector): Covert tunnel detection engine implemented in golang，Focus on ospf, icmp, igmp, rip and other protocols
 
 ## 2、Personal Coding Project
-- ⚡⚡⚡⚡[dpdk-based-nids](https://github.com/haolipeng/dpdk-based-nids): Network intrusion and detection system based on dpdk
+- ⚡⚡⚡⚡[dpdk-based-nids](https://github.com/haolipeng/dpdk-based-nids): Network intrusion and detection system based on dpdk，
 - ⚡⚡ [seven-days-golang](https://gitee.com/codergeek/seven-days-golang): Implement a series of golang related frameworks from scratch in 7 days
 
 ## 3、Source Code Reading
